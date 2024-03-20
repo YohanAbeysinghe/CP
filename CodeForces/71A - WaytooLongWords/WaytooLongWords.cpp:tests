@@ -1,0 +1,8 @@
+[
+	{
+		"test": "localization"
+	},
+	{
+		"test": "internationalization"
+	}
+]
